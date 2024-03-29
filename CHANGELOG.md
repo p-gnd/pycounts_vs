@@ -2,6 +2,17 @@
 
 
 
+## v0.1.4 (2024-03-29)
+
+### Fix
+
+* fix: :alembic: ([`4c5b2a9`](https://github.com/p-gnd/pycounts_vs/commit/4c5b2a98e7745073fa36793d7a7352e2554536a6))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of https://github.com/p-gnd/pycounts_vs ([`cddaa5e`](https://github.com/p-gnd/pycounts_vs/commit/cddaa5e84c467eb4f7e9743d6528e7f2c3b8d58e))
+
+
 ## v0.1.3 (2024-03-29)
 
 ### Fix
