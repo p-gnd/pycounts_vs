@@ -2,6 +2,19 @@
 
 
 
+## v0.1.3 (2024-03-29)
+
+### Fix
+
+* fix: :alembic: semantic-release version ([`3b120ba`](https://github.com/p-gnd/pycounts_vs/commit/3b120ba6e3e286da82efdf41da2c41fc64a5ed86))
+
+* fix: :rocket: RELEASE_TOKEN ([`9c7b2b0`](https://github.com/p-gnd/pycounts_vs/commit/9c7b2b0b7ba5e0064bd48b949123efa4f677ebd5))
+
+### Unknown
+
+* Update ci-cd.yml ([`306c20f`](https://github.com/p-gnd/pycounts_vs/commit/306c20f2c7702e3eebd36ac483ae864baf2144cf))
+
+
 ## v0.1.2 (2024-03-29)
 
 ### Ci
