@@ -2,6 +2,17 @@
 
 
 
+## v0.1.2 (2024-03-29)
+
+### Ci
+
+* ci: :package: ([`d4468cf`](https://github.com/p-gnd/pycounts_vs/commit/d4468cf68877b8d390130643cdd19b38dd96c23d))
+
+### Fix
+
+* fix: :bug: prova ([`49c0578`](https://github.com/p-gnd/pycounts_vs/commit/49c0578ef4ae17c1afba198b21bef1d278d147d1))
+
+
 ## v0.1.1 (2024-03-29)
 
 ### Ci
