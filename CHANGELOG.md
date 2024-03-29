@@ -2,6 +2,29 @@
 
 
 
+## v0.1.1 (2024-03-29)
+
+### Ci
+
+* ci(docs): :memo: excluded doc ([`5ea1a60`](https://github.com/p-gnd/pycounts_vs/commit/5ea1a6051737457040352c3c6416a94e92802682))
+
+### Fix
+
+* fix: :bug: version = &#34;0.1.0&#34; ([`272d389`](https://github.com/p-gnd/pycounts_vs/commit/272d389891bcc98b3c7e7634856f7e0c885e0150))
+
+* fix: :bug: prova ([`f3e2b72`](https://github.com/p-gnd/pycounts_vs/commit/f3e2b724a793571d0d8fc65787c2bb12d1e21d8b))
+
+* fix(libs): :bug: poetry lock required ([`e3d4f53`](https://github.com/p-gnd/pycounts_vs/commit/e3d4f5390850ea3a80842e617841ba59273734a0))
+
+* fix(libs): :bug: myst-nb missing
+
+provided myst-nb ([`b295599`](https://github.com/p-gnd/pycounts_vs/commit/b2955993c162c8900e236d5bc56970e1fecb17a3))
+
+* fix(venv): sphinx missing ([`f924bcd`](https://github.com/p-gnd/pycounts_vs/commit/f924bcd978c72716442b58a7e09cd240d26205b4))
+
+* fix(ci-cd): test fix - python version form 3.9 to 3.12 ([`2650f1e`](https://github.com/p-gnd/pycounts_vs/commit/2650f1e0b32c6ff8a8ec50899af5001c42bc9850))
+
+
 ## v0.1.0 (2024-03-29)
 
 ### Build
