@@ -33,7 +33,7 @@ logging_use_named_masks = false
 major_on_zero = true
 allow_zero_version = true
 tag_format = "v{version}"
-version_variable = "pyproject.toml:version"                 # version location
+version_variable = "src/pycounts_vs/__init__.py:__version__"                 # version location
 
 
 [tool.semantic_release.branches.main]
